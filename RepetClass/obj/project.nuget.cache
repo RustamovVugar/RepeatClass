@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wBxA7qlm0QB1VfcI+1EU9kVl241VGjPUfQ9Il0TeJGtvAGYtx1BSk8SrY0uNYKMT8dnB0YhShXh4vGjJct6CFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Service\\RepetClass\\RepetClass\\RepetClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

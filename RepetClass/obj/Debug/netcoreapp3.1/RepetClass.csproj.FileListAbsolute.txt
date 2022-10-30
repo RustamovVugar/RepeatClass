@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Service\RepetClass\RepetClass\bin\Debug\netcoreapp3.1\RepetClass.exe
+C:\Users\Administrator\Desktop\Service\RepetClass\RepetClass\bin\Debug\netcoreapp3.1\RepetClass.deps.json
+C:\Users\Administrator\Desktop\Service\RepetClass\RepetClass\bin\Debug\netcoreapp3.1\RepetClass.runtimeconfig.json
+C:\Users\Administrator\Desktop\Service\RepetClass\RepetClass\bin\Debug\netcoreapp3.1\RepetClass.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Service\RepetClass\RepetClass\bin\Debug\netcoreapp3.1\RepetClass.dll
+C:\Users\Administrator\Desktop\Service\RepetClass\RepetClass\bin\Debug\netcoreapp3.1\RepetClass.pdb
+C:\Users\Administrator\Desktop\Service\RepetClass\RepetClass\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Administrator\Desktop\Service\RepetClass\RepetClass\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Administrator\Desktop\Service\RepetClass\RepetClass\obj\Debug\netcoreapp3.1\RepetClass.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Service\RepetClass\RepetClass\obj\Debug\netcoreapp3.1\RepetClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Service\RepetClass\RepetClass\obj\Debug\netcoreapp3.1\RepetClass.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Service\RepetClass\RepetClass\obj\Debug\netcoreapp3.1\RepetClass.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Service\RepetClass\RepetClass\obj\Debug\netcoreapp3.1\RepetClass.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Service\RepetClass\RepetClass\obj\Debug\netcoreapp3.1\RepetClass.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Service\RepetClass\RepetClass\obj\Debug\netcoreapp3.1\RepetClass.dll
+C:\Users\Administrator\Desktop\Service\RepetClass\RepetClass\obj\Debug\netcoreapp3.1\RepetClass.pdb
+C:\Users\Administrator\Desktop\Service\RepetClass\RepetClass\obj\Debug\netcoreapp3.1\RepetClass.genruntimeconfig.cache
